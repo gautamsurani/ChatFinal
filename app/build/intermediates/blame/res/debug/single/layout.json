@@ -1,0 +1,502 @@
+[
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\db89d758dfbd9b743f537d2ec36f25e7\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\1656579672361672283ada8aa286ed15\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_media_details.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\filepicker-2.1.1.aar\\80d77e7238b01aac5a35b4a01d36658d\\res\\layout\\activity_media_details.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_message_attachment_audio.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\item_message_attachment_audio.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\db89d758dfbd9b743f537d2ec36f25e7\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_doc_layout.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\filepicker-2.1.1.aar\\80d77e7238b01aac5a35b4a01d36658d\\res\\layout\\item_doc_layout.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\db89d758dfbd9b743f537d2ec36f25e7\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\db89d758dfbd9b743f537d2ec36f25e7\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contact_viewer.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\activity_contact_viewer.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-15.0.0.aar\\d90d41b5722bf3378b3f250e1df3e05c\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_options.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\fragment_options.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_user_media.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\fragment_user_media.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_group_select_members.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\fragment_group_select_members.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_media_picker.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\filepicker-2.1.1.aar\\80d77e7238b01aac5a35b4a01d36658d\\res\\layout\\fragment_media_picker.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_group_new.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\fragment_group_new.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\1656579672361672283ada8aa286ed15\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\1656579672361672283ada8aa286ed15\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_message_attachment_recording.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\item_message_attachment_recording.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_message_attachment_image.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\item_message_attachment_image.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_menu_user.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\item_menu_user.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ef_imagepicker_item_image.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-1.9.0.aar\\fc5fb5d63f775cb36ab5edf6cbb6c99b\\res\\layout\\ef_imagepicker_item_image.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_selected_user.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\item_selected_user.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_v_card_detail.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\dialog_v_card_detail.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\empty_view.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\empty_view.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_item_user.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\adapter_item_user.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_folder_layout.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\filepicker-2.1.1.aar\\80d77e7238b01aac5a35b4a01d36658d\\res\\layout\\item_folder_layout.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\emoji_category.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\emoji-0.5.1.aar\\eec814b63be753cb27dfde4b0a172e75\\res\\layout\\emoji_category.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\1656579672361672283ada8aa286ed15\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\0533c7fe956cf7239c87a13c61eced74\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_photo_layout.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\filepicker-2.1.1.aar\\80d77e7238b01aac5a35b4a01d36658d\\res\\layout\\item_photo_layout.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_country_spinner.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\item_country_spinner.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_selection_header.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\fragment_selection_header.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_message_typing.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\item_message_typing.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_in_1.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\activity_sign_in_1.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\0533c7fe956cf7239c87a13c61eced74\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\db89d758dfbd9b743f537d2ec36f25e7\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_detail.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\activity_user_detail.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\db89d758dfbd9b743f537d2ec36f25e7\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_item_message.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\adapter_item_message.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-15.0.0.aar\\d90d41b5722bf3378b3f250e1df3e05c\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_file_picker.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\filepicker-2.1.1.aar\\80d77e7238b01aac5a35b4a01d36658d\\res\\layout\\activity_file_picker.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_message_attachment_contact.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\item_message_attachment_contact.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ef_imagepikcer_snackbar.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-1.9.0.aar\\fc5fb5d63f775cb36ab5edf6cbb6c99b\\res\\layout\\ef_imagepikcer_snackbar.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chats.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\activity_chats.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_photo_picker.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\filepicker-2.1.1.aar\\80d77e7238b01aac5a35b4a01d36658d\\res\\layout\\fragment_photo_picker.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-15.0.0.aar\\d90d41b5722bf3378b3f250e1df3e05c\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\1656579672361672283ada8aa286ed15\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\emoji_skin_popup.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\emoji-0.5.1.aar\\eec814b63be753cb27dfde4b0a172e75\\res\\layout\\emoji_skin_popup.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\db89d758dfbd9b743f537d2ec36f25e7\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_media_summary.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\item_media_summary.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\0533c7fe956cf7239c87a13c61eced74\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\db89d758dfbd9b743f537d2ec36f25e7\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_message_attachment_location.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\item_message_attachment_location.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_privacy.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\fragment_privacy.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\emoji_item.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\emoji-0.5.1.aar\\eec814b63be753cb27dfde4b0a172e75\\res\\layout\\emoji_item.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\partial_message_status_view.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\partial_message_status_view.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\trytry.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\trytry.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_user_detail.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\fragment_user_detail.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\db89d758dfbd9b743f537d2ec36f25e7\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tooltip.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_contact_number.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\item_contact_number.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main_recycler.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\fragment_main_recycler.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_profile_details.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\dialog_profile_details.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ef_imagepicker_item_folder.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-1.9.0.aar\\fc5fb5d63f775cb36ab5edf6cbb6c99b\\res\\layout\\ef_imagepicker_item_folder.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\db89d758dfbd9b743f537d2ec36f25e7\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_message_attachment_document.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\item_message_attachment_document.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_user_sub_media.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\fragment_user_sub_media.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\1656579672361672283ada8aa286ed15\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\db89d758dfbd9b743f537d2ec36f25e7\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_message_text.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\item_message_text.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_confirmation.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\fragment_confirmation.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_doc_picker.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\filepicker-2.1.1.aar\\80d77e7238b01aac5a35b4a01d36658d\\res\\layout\\fragment_doc_picker.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_tab.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\custom_tab.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_message_attachment_video.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\item_message_attachment_video.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\emoji_view.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\emoji-0.5.1.aar\\eec814b63be753cb27dfde4b0a172e75\\res\\layout\\emoji_view.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-15.0.0.aar\\d90d41b5722bf3378b3f250e1df3e05c\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\1656579672361672283ada8aa286ed15\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\0533c7fe956cf7239c87a13c61eced74\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\db89d758dfbd9b743f537d2ec36f25e7\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_in_2.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\activity_sign_in_2.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\db89d758dfbd9b743f537d2ec36f25e7\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ef_activity_image_picker.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-1.9.0.aar\\fc5fb5d63f775cb36ab5edf6cbb6c99b\\res\\layout\\ef_activity_image_picker.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\0533c7fe956cf7239c87a13c61eced74\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_media_folder_picker.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\filepicker-2.1.1.aar\\80d77e7238b01aac5a35b4a01d36658d\\res\\layout\\fragment_media_folder_picker.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_user_select.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\fragment_user_select.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\1656579672361672283ada8aa286ed15\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\footer_view.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\footer_view.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_viewer.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\activity_image_viewer.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_group_select.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\layout\\fragment_group_select.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\1656579672361672283ada8aa286ed15\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ef_imagepicker_toolbar.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-1.9.0.aar\\fc5fb5d63f775cb36ab5edf6cbb6c99b\\res\\layout\\ef_imagepicker_toolbar.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\db89d758dfbd9b743f537d2ec36f25e7\\res\\layout\\design_navigation_item.xml"
+    }
+]

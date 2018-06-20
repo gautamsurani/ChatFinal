@@ -1,0 +1,462 @@
+[
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\0533c7fe956cf7239c87a13c61eced74\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\0533c7fe956cf7239c87a13c61eced74\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_share_black_24dp.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_share_black_24dp.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_location.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_location.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_forward_24dp.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_forward_24dp.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\0533c7fe956cf7239c87a13c61eced74\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_camera_alt.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_camera_alt.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_image.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_image.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_waiting.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_waiting.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_insert_64dp.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_insert_64dp.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\62a8df458c5200288113eca2a2fbcc0c\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_power_settings_new_dark_24dp.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_power_settings_new_dark_24dp.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_online_circle.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_online_circle.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_insert.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_insert.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_insert_emoticon_gray_40dp.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_insert_emoticon_gray_40dp.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_keyboard_arrow_right_white_24dp.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_keyboard_arrow_right_white_24dp.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\powered_by_google_light.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-15.0.0.aar\\d90d41b5722bf3378b3f250e1df3e05c\\res\\drawable-mdpi-v4\\powered_by_google_light.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_play_circle_outline.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_play_circle_outline.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_mail_dark_24dp.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_mail_dark_24dp.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_headset.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_headset.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_copy_24dp.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_copy_24dp.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_send.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_send.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_phone.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_phone.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_share_dark_24dp.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_share_dark_24dp.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_assignment_dark_24dp.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_assignment_dark_24dp.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_keyboard_voice_24dp.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_keyboard_voice_24dp.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_people_white_24dp.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_people_white_24dp.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_file_download_accent_36dp.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_file_download_accent_36dp.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\places_ic_search.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-15.0.0.aar\\d90d41b5722bf3378b3f250e1df3e05c\\res\\drawable-mdpi-v4\\places_ic_search.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\0533c7fe956cf7239c87a13c61eced74\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_stop.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_stop.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_add.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_add.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_done_black.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_done_black.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_audiotrack_24dp.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_audiotrack_24dp.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_add_circle.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_add_circle.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_remove_circle_outline_dark_24dp.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_remove_circle_outline_dark_24dp.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_done_white.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-1.9.0.aar\\fc5fb5d63f775cb36ab5edf6cbb6c99b\\res\\drawable-mdpi-v4\\ic_done_white.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_person_add.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_person_add.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_exit.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_exit.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_share.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_share.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\62a8df458c5200288113eca2a2fbcc0c\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_keyboard_arrow_left_white_24dp.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_keyboard_arrow_left_white_24dp.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\design_ic_visibility_off.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\db89d758dfbd9b743f537d2ec36f25e7\\res\\drawable-mdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_check_white_24dp.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_check_white_24dp.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\powered_by_google_dark.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-15.0.0.aar\\d90d41b5722bf3378b3f250e1df3e05c\\res\\drawable-mdpi-v4\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_message_container_right_1.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_message_container_right_1.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_contact_perm.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_contact_perm.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_camera_white.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-1.9.0.aar\\fc5fb5d63f775cb36ab5edf6cbb6c99b\\res\\drawable-mdpi-v4\\ic_camera_white.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_message_24dp.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_message_24dp.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_sync.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_sync.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\62a8df458c5200288113eca2a2fbcc0c\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_person_black_24dp.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\0533c7fe956cf7239c87a13c61eced74\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\design_ic_visibility.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\db89d758dfbd9b743f537d2ec36f25e7\\res\\drawable-mdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_file_download_40dp.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_file_download_40dp.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\62a8df458c5200288113eca2a2fbcc0c\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_delete_24dp.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_delete_24dp.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_video_24dp.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_video_24dp.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_attach.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_attach.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_arrow_back.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-1.9.0.aar\\fc5fb5d63f775cb36ab5edf6cbb6c99b\\res\\drawable-mdpi-v4\\ic_arrow_back.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_message_container_left_1.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_message_container_left_1.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_thumb_up_dark_24dp.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_thumb_up_dark_24dp.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_keyboard_arrow_left_white_36dp.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_keyboard_arrow_left_white_36dp.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\62a8df458c5200288113eca2a2fbcc0c\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\places_ic_clear.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-15.0.0.aar\\d90d41b5722bf3378b3f250e1df3e05c\\res\\drawable-mdpi-v4\\places_ic_clear.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_done_all_black.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_done_all_black.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7e673f24b198cf347c372e4cf8121936\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\62a8df458c5200288113eca2a2fbcc0c\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_close_white_24dp.png",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_close_white_24dp.png"
+    }
+]

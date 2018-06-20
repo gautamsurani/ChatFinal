@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "225177480650",
+    "firebase_url": "https://nazpower-chat.firebaseio.com",
+    "project_id": "nazpower-chat",
+    "storage_bucket": "nazpower-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225177480650:android:abbac34d3c1fe40a",
+        "android_client_info": {
+          "package_name": "com.nazpowerchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225177480650-vgamj2plf832iu7v3kb55fgfiapqr1t8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "225177480650-vgamj2plf832iu7v3kb55fgfiapqr1t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvUXRCa-kyg059t9fX6jAthyay_uNM1ok"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

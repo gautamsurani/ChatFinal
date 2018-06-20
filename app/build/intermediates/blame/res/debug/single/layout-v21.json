@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\0533c7fe956cf7239c87a13c61eced74\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\0533c7fe956cf7239c87a13c61eced74\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\0533c7fe956cf7239c87a13c61eced74\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-15.0.0.aar\\d90d41b5722bf3378b3f250e1df3e05c\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\0533c7fe956cf7239c87a13c61eced74\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

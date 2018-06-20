@@ -1,0 +1,4 @@
+#Wed Jun 13 10:03:49 IST 2018
+base.0=D\:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\31
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\release\\xml\\image_picker_provider_paths.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-1.9.0.aar\\fc5fb5d63f775cb36ab5edf6cbb6c99b\\res\\xml\\image_picker_provider_paths.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\release\\xml\\file_paths.xml",
+        "source": "D:\\projects\\Nazpower Chat App\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "D:\\projects\\Nazpower Chat App\\app\\build\\intermediates\\res\\merged\\release\\xml\\provider_paths.xml",
+        "source": "C:\\Users\\Welcome\\.gradle\\caches\\transforms-1\\files-1.1\\filepicker-2.1.1.aar\\80d77e7238b01aac5a35b4a01d36658d\\res\\xml\\provider_paths.xml"
+    }
+]
